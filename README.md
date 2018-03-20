@@ -1,2 +1,2 @@
 # ContantsListView
-这是一个显示联系人的界面
+这是一个Android原生的显示联系人的界面
